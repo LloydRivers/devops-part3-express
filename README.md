@@ -1,3 +1,5 @@
-## Node app
+DevOps With Docker - Exercise subsmission 📓
+This repository contains my solutions for the course's exercises.
 
-Access with browser http://localhost:8080
+Course website:
+https://devopswithdocker.com/
